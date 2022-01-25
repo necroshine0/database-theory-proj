@@ -19,4 +19,4 @@ jobs:
         pip install aiogram
         
     - name: Run Bot
-      run: python main.py	
+      run: python tgbot/main.py	
